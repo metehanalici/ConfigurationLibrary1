@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnstsmKSplA=",
+  "success": false,
+  "projectFilePath": "c:\\Users\\asus\\OneDrive\\Masaüstü\\ConfigurationLibrary1\\ConfigurationLibrary.Tests\\ConfigurationLibrary.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Yerel kaynak 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' mevcut değil.",
+      "libraryId": "Moq"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Yerel kaynak 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' mevcut değil.",
+      "libraryId": "xunit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Yerel kaynak 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' mevcut değil.",
+      "libraryId": "xunit.runner.visualstudio"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Yerel kaynak 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' mevcut değil.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    }
+  ]
+}
